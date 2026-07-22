@@ -1,6 +1,6 @@
-# 🧩 RevStack Challenge Catalog (Part 1)
+# 🧩 RevCraft Challenge Catalog (Part 1)
 
-> This document serves as the master list of engineering challenges available in **RevStack**.
+> This document serves as the master list of engineering challenges available in **RevCraft**.
 >
 > Each challenge is designed like a project-level LeetCode problem. The goal is to solve the engineering problem using clean architecture, best practices, and production-inspired design.
 >
@@ -112,7 +112,7 @@
 
 ---
 
-# 🧩 RevStack Challenge Catalog (Part 2)
+# 🧩 RevCraft Challenge Catalog (Part 2)
 
 > Continue building production-inspired projects to revise mobile development, frontend design, deep learning, and classical machine learning. Each repository should contain its own detailed `PROBLEM.md` describing functional requirements, technical constraints, and bonus objectives.
 
@@ -227,7 +227,7 @@
 
 ---
 
-# 🧩 RevStack Challenge Catalog (Part 3)
+# 🧩 RevCraft Challenge Catalog (Part 3)
 
 > This section focuses on modern AI engineering, backend systems, blockchain development, and DevOps. These projects combine multiple technologies to simulate production-grade software engineering challenges.
 
@@ -363,7 +363,7 @@
 
 # 🎯 Final Objective
 
-RevStack is designed to help you revise an entire modern software engineering stack through practical engineering challenges.
+RevCraft is designed to help you revise an entire modern software engineering stack through practical engineering challenges.
 
 By completing every challenge, you'll gain hands-on experience with:
 
@@ -384,7 +384,7 @@ Every project emphasizes clean architecture, production-inspired design, testing
 
 ---
 
-> **RevStack Philosophy:**
+> **RevCraft Philosophy:**
 > *Learn → Build → Break → Debug → Rebuild → Master.*
 
 **The goal isn't to complete the challenges once—it's to become capable of rebuilding them from memory with confidence.**
